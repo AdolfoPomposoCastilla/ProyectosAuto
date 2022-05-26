@@ -1,0 +1,2 @@
+com/example/proyectoauto/BuildConfig.java
+ com.example.proyectoauto.BuildConfig
